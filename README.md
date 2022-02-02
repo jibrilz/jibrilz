@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jibrilz
-- 👀 I’m interested in Sql Developer
-- 🌱 I’m currently learning Sql Developer
+- 👀 I’m interested in Sql Developer & UI UX Design
+- 🌱 I’m currently learning Sql Developer & UI UX Design
 - 💞️ I’m looking to collaborate on Database development
 - 📫 How to reach me https://www.upwork.com/freelancers/~01885a5a4706256fd1?viewMode=1&s=1110580752155136000
 
